@@ -1,7 +1,7 @@
 # iNeuron_Mushroom_Classification
 The complete end to end project with deployment on heroku.
 
-<b>App Link :</b> https://mushroom-classification-ml-api.herokuapp.com/
+<b>App Link :</b> https://mushrooms-classifire.herokuapp.com/
 
 
 <b>ABSTRACT :</b>
